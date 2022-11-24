@@ -184,9 +184,13 @@ input[type="checkbox"] {
         position: initial;
         margin: 1rem;
     }
-
+    
     .dropdown{
-        margin-left: 1rem;
+        margin-left: 0.7rem;
+    }
+    .dropdown-btn{
+        margin-left: 0;
+        margin-top: 10px;
     }
 
     #active:checked~.nav {
